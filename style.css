@@ -112,7 +112,7 @@ h1, h2, h3 {
 /* ===== HERO ===== */
 .hero {
   min-height: 100vh;
-  background: linear-gradient(rgba(61, 26, 8, 0.60), rgba(61, 26, 8, 0.60)), url('images/hero.jpg') center center / cover no-repeat fixed;
+  background: linear-gradient(rgba(61, 26, 8, 0.60), rgba(61, 26, 8, 0.60)), url('images/hero.jpg') center center / cover no-repeat;
   display: flex;
   align-items: center;
   justify-content: center;
